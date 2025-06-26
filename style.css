@@ -1,0 +1,14 @@
+/* style.css */
+
+.title {
+    background-color: #ffcccb;
+    font-size: 24px;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    padding: 20px;
+}
+
+.list-format{
+    font-size: 18px;
+    margin-left: 20px;
+}
